@@ -16,3 +16,7 @@ Hospitality Domain Data: The primary dataset used for this analysis is the "fact
 
 An automated dashboard providing quick & latest Revenue insights in order to supprt data driven decision making.
 
+![WhatsApp Image 2024-07-21 at 6 41 45 PM](https://github.com/user-attachments/assets/24edd071-477a-44df-8480-5e0945df7abe)
+
+
+
